@@ -1,7 +1,9 @@
 # Basic_News_Detector
 Fake news Detection using TfidfVectorizer
 
-The fake news detector was made using TfidfVectorizer and intializing the Passive Agressive classiﬁer.It helps in detection of fake news.
+The fake news detector was made using TfidfVectorizer and intializing the Passive Agressive classiﬁer.
+It helps in detection of fake news.
+
 TF (Term Frequency) - The number of times a word appears in a document is its Term Frequency.
 IDF - IDF is a measure of how significant a term is in the entire corpus.
 TfidfVectorizer - Transforms text to feature vectors that can be used as input to estimator.
