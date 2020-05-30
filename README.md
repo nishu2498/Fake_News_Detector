@@ -13,10 +13,15 @@ TfidfVectorizer - Transforms text to feature vectors that can be used as input t
 Passive Agressive classiﬁer-The passive-aggressive algorithms are a family of algorithms for large-scale learning.
 
 The libaries used are :
+
 Numpy
+
 Pandas
+
 Scikit Learn
+
 Itertools
+
 Matplotlib and Seaborn
 
 The accuracy was predicted taking different values of max_iter and confusion matrix was plotted. Accuracy is the number of correct predictions made divided by the total number of predictions made, multiplied by 100 to turn it into a percentage.The confusion matrix summarizes the performance of a classification algorithm.
