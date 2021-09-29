@@ -1,4 +1,4 @@
-# Basic_News_Detector
+# Fake_News_Detector
 Fake news Detection using TfidfVectorizer
 
 The fake news detector was made using TfidfVectorizer and intializing the Passive Agressive classiﬁer.
